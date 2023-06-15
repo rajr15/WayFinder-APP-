@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvRegister" type="id" />
+    <item name="btnLogin" type="id" />
+    <item name="etPassword" type="id" />
+    <item name="etUsername" type="id" />
+    <item name="welcomeTextView" type="id" />
+    <item name="logoImageView" type="id" />
+    <item name="etFullName" type="id" />
+    <item name="etEmail" type="id" />
+    <item name="btnRegister" type="id" />
+    <item name="tvLogin" type="id" />
+    <item name="usernameCardView" type="id" />
+    <item name="passwordCardView" type="id" />
+</resources>
