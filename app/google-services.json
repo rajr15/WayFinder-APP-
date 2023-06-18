@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "141126077399",
+    "project_id": "way-finder-8eea4",
+    "storage_bucket": "way-finder-8eea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141126077399:android:1ac5fc6303070d78e8d992",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141126077399-oovfgivbps2i2p8io07t0hckhfu01na8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBomqIJsM8eI4bxxVxiNDZPnz1miMQo63c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141126077399-oovfgivbps2i2p8io07t0hckhfu01na8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141126077399:android:26831146f8bb7f8be8d992",
+        "android_client_info": {
+          "package_name": "com.example.wayfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141126077399-oovfgivbps2i2p8io07t0hckhfu01na8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBomqIJsM8eI4bxxVxiNDZPnz1miMQo63c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141126077399-oovfgivbps2i2p8io07t0hckhfu01na8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
