@@ -19,6 +19,25 @@ class HomeActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         auth = FirebaseAuth.getInstance()
+
+        // Set up bottom navigation listener
+        binding.bottomNavigationView.setOnNavigationItemSelectedListener { menuItem ->
+            when (menuItem.itemId) {
+                R.id.navigation_item1 -> {
+                    // Handle item 1 selection
+                    return@setOnNavigationItemSelectedListener true
+                }
+                R.id.navigation_item2 -> {
+                    // Handle item 2 selection
+                    return@setOnNavigationItemSelectedListener true
+                }
+                R.id.navigation_item3 -> {
+                    // Handle item 3 selection
+                    return@setOnNavigationItemSelectedListener true
+                }
+            }
+            false
+        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
